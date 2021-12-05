@@ -1,3 +1,0 @@
-[submodule "sshd-ldap"]
-	path = sshd-ldap
-	url = git@github.com:barankaraaslan/docker-sshd-ldap.git
